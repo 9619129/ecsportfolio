@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Helvetica, sans-serif;
+	font: 100%/1.4 Optima, sans-serif;
 
 }
 .homePage {
@@ -47,11 +47,12 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #000000;
+     color: #295861;
 }
 a:visited {
-     color: #000;
+     color: #0E3036;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
+     color: #C5DDE1;
 }
